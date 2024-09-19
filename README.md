@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iabdulzahid
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Golang
+- 🌱 I’m currently learning ...SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...abdulzahidddd@gmail.com
+- 📫 How to reach me ...[Contact me here](abdulzahidddd@gmail.com)
 
 <!---
 iabdulzahid/iabdulzahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
